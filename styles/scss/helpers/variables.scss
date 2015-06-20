@@ -1,0 +1,25 @@
+
+$font-family-base: 'Open Sans', sans-serif;
+
+$color-text: #444444;
+$color-sq-yellow: rgb(255,242,0);
+$color-sq-orange: rgb(255,184,0);
+$color-sq-blue: rgb(109,207,246);
+$color-sq-green: rgb(141,198,63);
+$color-sq-pink: rgb(240,110,170);
+$color-sq-grey: rgb(183,183,183);
+$color-sq-darkgreen: rgb(60,184,120);
+
+
+$box-height: 280px;
+$box-padding: 10px;
+
+//GRID
+
+$screen-xs: 480px;
+$screen-sm: 768px;
+$screen-max-sm: $screen-sm - 1;
+$screen-md: 992px;
+$screen-max-sm: $screen-md - 1;
+$screen-lg: 1200px;
+$screen-max-md: $screen-lg - 1;

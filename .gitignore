@@ -1,0 +1,4 @@
+node_modules
+.project
+styles/css/*
+js/min/*

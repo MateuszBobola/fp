@@ -1,0 +1,37 @@
+a {
+  &:hover,
+  &:focus,
+  &:active {
+    outline: none;
+  }
+}
+
+.bg {
+  &.yellow {
+    background-color: $color-sq-yellow;
+  }
+  
+  &.orange {
+    background-color: $color-sq-orange;
+  }
+  
+  &.blue {
+    background-color: $color-sq-blue;
+  }
+  
+  &.green {
+    background-color: $color-sq-green;
+  }
+  
+  &.pink {
+    background-color: $color-sq-pink;
+  }
+  
+  &.grey {
+    background-color: $color-sq-grey;
+  }
+  
+  &.darkgreen {
+    background-color: $color-sq-darkgreen;
+  }
+}

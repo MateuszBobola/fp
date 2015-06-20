@@ -1,0 +1,21 @@
+{
+  "name": "top25snuff",
+  "version": "0.0.0",
+  "description": "Alkohole24",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MB",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "~3.9.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-concat": "~2.5.2",
+    "gulp-uglify": "~1.2.0",
+    "gulp-sass": "~2.0.1",
+    "gulp-jshint": "~1.11.0",
+    "browser-sync": "~2.7.3",
+    "gulp-minify-css": "~1.1.6"
+  }
+}
