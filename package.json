@@ -1,7 +1,7 @@
 {
-  "name": "top25snuff",
+  "name": "zadanie",
   "version": "0.0.0",
-  "description": "Alkohole24",
+  "description": "Zadanie",
   "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
